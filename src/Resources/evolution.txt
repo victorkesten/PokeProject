@@ -1,0 +1,155 @@
+POKEMON EVOLUTION DATA. 
+ORDER: ID, Method
+METHODS: Happiness, Moonstone, Firestone, Leafstone, Waterstone, Trade, Thunderstone, L (level)
+============================================================================================
+1 L16 2 L36 3 ! >/
+1 L16 2 L36 3 ! >/
+1 L16 2 L36 3 ! >/
+4 L16 5 L36 6 ! >/
+4 L16 5 L36 6 ! >/
+4 L16 5 L36 6 ! >/
+7 L16 8 L36 9 ! >/
+7 L16 8 L36 9 ! >/
+7 L16 8 L36 9 ! >/
+10 L7 11 L10 12 ! >/
+10 L7 11 L10 12 ! >/
+10 L7 11 L10 12 ! >/
+13 L7 14 L10 15 ! >/
+13 L7 14 L10 15 ! >/
+13 L7 14 L10 15 ! >/
+16 L18 17 L16 18 ! >/
+16 L18 17 L16 18 ! >/
+16 L18 17 L16 18 ! >/
+19 L20 20 ! >/
+19 L20 20 ! >/
+21 L20 22 ! >/
+21 L20 22 ! >/
+23 L22 24 ! >/
+23 L22 24 ! >/
+25 Thunderstone 26 ! >/
+25 Thunderstone 26 ! >/
+27 L22 28 ! >/
+27 L22 28 ! >/
+29 L16 30 Moonstone 31 ! >/
+29 L16 30 Moonstone 31 ! >/
+29 L16 30 Moonstone 31 ! >/
+32 L16 33 Moonstone 34 ! >/
+32 L16 33 Moonstone 34 ! >/
+32 L16 33 Moonstone 34 ! >/
+35 Moonstone 36 ! >/
+35 Moonstone 36 ! >/
+37 Firestone 38 ! >/
+37 Firestone 38 ! >/
+39 Moonstone 40 ! >/
+39 Moonstone 40 ! >/
+41 L22 42 ! >/
+41 L22 42 ! >/
+43 L21 44 Leafstone 45 ! >/
+43 L21 44 Leafstone 45 ! >/
+43 L21 44 Leafstone 45 ! >/
+46 L24 47 ! >/
+46 L24 47 ! >/
+48 L31 49 ! >/
+48 L31 49 ! >/
+50 L29 51 ! >/
+50 L29 51 ! >/
+52 L28 53 ! >/
+52 L28 53 ! >/
+54 L33 55 ! >/
+54 L33 55 ! >/
+56 L28 57 ! >/
+56 L28 57 ! >/
+58 Firestone 59 ! >/
+58 Firestone 59 ! >/
+60 L25 61 Waterstone 62 ! >/
+60 L25 61 Waterstone 62 ! >/
+60 L25 61 Waterstone 62 ! >/
+63 L16 64 Trade 65 ! >/
+63 L16 64 Trade 65 ! >/
+63 L16 64 Trade 65 ! >/
+66 L28 67 Trade 68 ! >/
+66 L28 67 Trade 68 ! >/
+66 L28 67 Trade 68 ! >/
+69 L21 70 Leafstone 71 ! >/
+69 L21 70 Leafstone 71 ! >/
+69 L21 70 Leafstone 71 ! >/
+72 L30 73 ! >/
+72 L30 73 ! >/
+74 L25 75 Trade 76 ! >/
+74 L25 75 Trade 76 ! >/
+74 L25 75 Trade 76 ! >/
+77 L40 78 ! >/
+77 L40 78 ! >/
+79 L37 80 ! >/
+79 L37 80 ! >/
+81 L30 82 ! >/
+81 L30 82 ! >/
+N/A ! >/
+84 L31 85 ! >/
+84 L31 85 ! >/
+86 L34 87 ! >/
+86 L34 87 ! >/
+88 L38 89 ! >/
+88 L38 89 ! >/
+90 Waterstone 91 ! >/
+90 Waterstone 91 ! >/
+92 L25 93 Trade 94 ! >/
+92 L25 93 Trade 94 ! >/
+92 L25 93 Trade 94 ! >/
+N/A ! >/
+96 L26 97 ! >/
+96 L26 97 ! >/
+98 L28 99 ! >/
+98 L28 99 ! >/
+100 L30 101 ! >/
+100 L30 101 ! >/
+102 Leafstone 103 ! >/
+102 Leafstone 103 ! >/
+104 L28 105 ! >/
+104 L29 105 ! >/
+N/A ! >/
+N/A ! >/
+N/A ! >/
+109 L35 110 ! >/
+109 L35 110 ! >/
+111 L42 112 ! >/
+111 L42 112 ! >/
+N/A ! >/
+N/A ! >/
+116 L32 117 ! >/
+116 L32 117 ! >/
+118 L33 119 ! >/
+118 L33 119 ! >/
+120 Waterstone 121 ! >/
+120 Waterstone 121 ! >/
+N/A ! >/
+N/A ! >/
+N/A ! >/
+N/A ! >/
+N/A ! >/
+N/A ! >/
+N/A ! >/
+N/A ! >/
+129 L20 130 ! >/
+129 L20 130 ! >/
+N/A ! >/
+N/A ! >/
+133 Waterstone 134 Thunderstone 135 Firestone 136 ! >/
+133 Waterstone 134 Thunderstone 135 Firestone 136 ! >/
+133 Waterstone 134 Thunderstone 135 Firestone 136 ! >/
+133 Waterstone 134 Thunderstone 135 Firestone 136 ! >/
+N/A ! >/
+138 L40 139 ! >/
+138 L40 139 ! >/
+140 L40 141 ! >/
+140 L40 141 ! >/
+N/A ! >/
+N/A ! >/
+N/A ! >/
+N/A ! >/
+N/A ! >/
+147 L30 148 L55 149 ! >/
+147 L30 148 L55 149 ! >/
+147 L30 148 L55 149 ! >/
+N/A ! >/
+N/A ! >/
